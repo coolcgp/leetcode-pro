@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86fc5e4-3b35-4417-8590-b3fa1072b8df" name="Default Changelist" comment="nice">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/两种计算树的深度/树的层数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/两种计算树的深度/树的深度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/两种计算树的深度/树的高度.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arrayT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UWGbDaK76A2T9FgQMi3LZS6Nxf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Python.树的高度">
+    <configuration name="递归先根遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/三种遍历" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/三种遍历/遍历二叉树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="树的深度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/两种计算树的深度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/两种计算树的深度/树的深度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="树的高度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/两种计算树的深度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/两种计算树的深度/树的高度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="树的深度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/两种计算树的深度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/两种计算树的深度/树的深度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="树的高度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/两种计算树的深度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/两种计算树的深度/树的高度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="计算树的深度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/深广搜索" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/深广搜索/计算树的深度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="全边界" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/打印树的边界" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/打印树的边界/全边界.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="计算树的深度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/深广搜索" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/深广搜索/计算树的深度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/层次遍历" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/层次遍历/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/不同路径62" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/不同路径62/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.树的高度" />
+        <item itemvalue="Python.树的深度" />
+        <item itemvalue="Python.递归先根遍历" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86fc5e4-3b35-4417-8590-b3fa1072b8df" name="Default Changelist" comment="" />
+      <created>1573045360133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573045360133</updated>
+      <workItem from="1573045364265" duration="454000" />
+      <workItem from="1573045831585" duration="1564000" />
+      <workItem from="1573047475144" duration="10241000" />
+      <workItem from="1573181421566" duration="99000" />
+      <workItem from="1573181857311" duration="248000" />
+      <workItem from="1573199713170" duration="2407000" />
+      <workItem from="1573571902548" duration="224000" />
+      <workItem from="1573572179999" duration="50000" />
+      <workItem from="1573691941955" duration="2809000" />
+      <workItem from="1574036471165" duration="1468000" />
+      <workItem from="1574315605774" duration="25000" />
+      <workItem from="1574315660081" duration="285000" />
+      <workItem from="1574315997209" duration="6060000" />
+      <workItem from="1574988056095" duration="3205000" />
+      <workItem from="1575107678794" duration="3416000" />
+      <workItem from="1575278951083" duration="7000" />
+      <workItem from="1575464560641" duration="283000" />
+      <workItem from="1575465008218" duration="86000" />
+      <workItem from="1575465106213" duration="3065000" />
+      <workItem from="1575642673984" duration="526000" />
+      <workItem from="1577290052355" duration="2641000" />
+      <workItem from="1577373913058" duration="1260000" />
+    </task>
+    <task id="LOCAL-00001" summary="最喜欢的遍历二叉树实现">
+      <created>1574991200462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574991200462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="打印边界">
+      <created>1575545447143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575545447143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最喜欢的遍历二叉树实现" />
+    <MESSAGE value="打印边界" />
+    <option name="LAST_COMMIT_MESSAGE" value="打印边界" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1577361469262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577361469262" />
+    <state width="1868" height="395" key="GridCell.Tab.0.bottom" timestamp="1577375241136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.bottom/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241136" />
+    <state width="1388" height="317" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577362052898" />
+    <state width="1868" height="395" key="GridCell.Tab.0.center" timestamp="1577375241135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.center/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241135" />
+    <state width="1388" height="317" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577362052897" />
+    <state width="1868" height="395" key="GridCell.Tab.0.left" timestamp="1577375241134">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.left/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241134" />
+    <state width="1868" height="317" key="GridCell.Tab.0.left/-1440.385.1440.877/0.0.1920.1000@0.0.1920.1000" timestamp="1575554169635" />
+    <state width="1388" height="317" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577362052897" />
+    <state width="1868" height="395" key="GridCell.Tab.0.right" timestamp="1577375241135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.right/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241135" />
+    <state width="1388" height="317" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577362052898" />
+    <state width="1868" height="395" key="GridCell.Tab.1.bottom" timestamp="1577375241033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.bottom/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241033" />
+    <state width="1388" height="317" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577362052900" />
+    <state width="1868" height="395" key="GridCell.Tab.1.center" timestamp="1577375241032">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.center/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241032" />
+    <state width="1388" height="317" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577362052899" />
+    <state width="1868" height="395" key="GridCell.Tab.1.left" timestamp="1577375241031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.left/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241031" />
+    <state width="1388" height="317" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577362052898" />
+    <state width="1868" height="395" key="GridCell.Tab.1.right" timestamp="1577375241033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.right/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375241033" />
+    <state width="1388" height="317" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577362052899" />
+    <state x="339" y="102" key="RollbackChangesDialog" timestamp="1577361452451">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="339" y="102" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1577361452451" />
+    <state x="562" y="357" key="VCS.ChangelistChooser" timestamp="1575545432431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="562" y="357" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1575545432431" />
+    <state x="220" y="129" key="Vcs.Push.Dialog.v2" timestamp="1575545450036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575545450036" />
+    <state x="383" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1577290052998">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="383" y="264" key="com.intellij.ide.util.TipDialog/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577290052998" />
+    <state x="383" y="262" key="com.intellij.ide.util.TipDialog/-1440.385.1440.877/0.23.1920.977@0.23.1920.977" timestamp="1575642686005" />
+    <state x="287" y="218" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1575465110310" />
+    <state x="402" y="226" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577375012316">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="402" y="226" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577375012316" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1577291304393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/-1440.362.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577291304393" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode_pro$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1574038587106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/树/层次遍历" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1573695018666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/动态规划/不同路径62" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$_62_.coverage" NAME="[62]不同路径 Coverage Results" MODIFIED="1573696069547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/kd/k9h70s8d7pq67zqhl0hkc_1m0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1573696101875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/动态规划/不同路径62" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1573135257727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/delete_strange_node" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$.coverage" NAME="树的高度 Coverage Results" MODIFIED="1577375240988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/树/两种计算树的深度" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$_144_.coverage" NAME="[144]二叉树的前序遍历 Coverage Results" MODIFIED="1573135524413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/kd/k9h70s8d7pq67zqhl0hkc_1m0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode_pro$__init____4_.coverage" NAME="__init__ (4) Coverage Results" MODIFIED="1573181919357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre-order" />
+  </component>
+</project>
